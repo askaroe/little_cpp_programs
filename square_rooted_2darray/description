@@ -1,2 +1,11 @@
 This little program will help you to print out 2d array with square rooted elements;
 You need to input your n*n 2d array after this programm will print this array with square rooted elements;
+User input:
+3
+9 8 7
+4 5 6
+11 16 1
+Output:
+3 8 7
+2 5 6
+11 4 1
