@@ -1,2 +1,8 @@
 this little program will help you to print out all prime numbers.
 you just need to input your number and this program will print all prime numbers before your number.
+Example:
+10
+2 is prime
+3 is prime
+5 is prime
+7 is prime
